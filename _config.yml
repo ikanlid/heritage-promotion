@@ -25,7 +25,7 @@ github_username:  το github repo σας
 
 # Build settings
 markdown: kramdown
-theme: Agency
+theme: agency
 plugins:
   - jekyll-feed
 
