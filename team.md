@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Η αμάδα μας
+title: Η oμάδα μας
 permalink: /about/
 ---
 
